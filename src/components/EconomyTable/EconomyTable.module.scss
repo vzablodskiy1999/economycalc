@@ -1,0 +1,21 @@
+.table {
+  table-layout: fixed;
+}
+
+.row__name {
+  width: 30%;
+}
+
+.row__type-icon {
+  margin-left: 8px;
+}
+
+.icon--remove {
+  cursor: pointer;
+  margin-left: 16px;
+  transition: color .3s;
+
+  &:hover {
+    color: #ff8282;
+  }
+}

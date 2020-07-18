@@ -6,12 +6,9 @@ import EconomyTableSettings from "../../containers/EconomyTableSettings";
 export const Homepage = () => {
     return (
         <div className={`container ` + styles.container}>
-            <p className={styles["hero-text"]}>
-                Test project. Source link: <a href="https://www.uplab.ru/blog/unit-economics-how-to-evaluate-the-success-of-the-business/">https://www.uplab.ru/blog/unit-economics-how-to-evaluate-the-success-of-the-business/</a>
-            </p>
             <div>
                 <p>
-                    You can calculate unit economic for your project using next formula:
+                    You can calculate unit economic for your project with help of this table, there are most common indexes:
                 </p>
                 <p>
                     <strong>

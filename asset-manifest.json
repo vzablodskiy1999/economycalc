@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/economycalc/static/css/main.2218e3f6.chunk.css",
+    "main.js": "/economycalc/static/js/main.4ad75bd3.chunk.js",
+    "main.js.map": "/economycalc/static/js/main.4ad75bd3.chunk.js.map",
+    "runtime-main.js": "/economycalc/static/js/runtime-main.a4f6ad64.js",
+    "runtime-main.js.map": "/economycalc/static/js/runtime-main.a4f6ad64.js.map",
+    "static/css/2.e9c4461c.chunk.css": "/economycalc/static/css/2.e9c4461c.chunk.css",
+    "static/js/2.2db8ac7a.chunk.js": "/economycalc/static/js/2.2db8ac7a.chunk.js",
+    "static/js/2.2db8ac7a.chunk.js.map": "/economycalc/static/js/2.2db8ac7a.chunk.js.map",
+    "index.html": "/economycalc/index.html",
+    "precache-manifest.039424c1b3c598a0799c7fb98c9072d4.js": "/economycalc/precache-manifest.039424c1b3c598a0799c7fb98c9072d4.js",
+    "service-worker.js": "/economycalc/service-worker.js",
+    "static/css/2.e9c4461c.chunk.css.map": "/economycalc/static/css/2.e9c4461c.chunk.css.map",
+    "static/css/main.2218e3f6.chunk.css.map": "/economycalc/static/css/main.2218e3f6.chunk.css.map",
+    "static/js/2.2db8ac7a.chunk.js.LICENSE.txt": "/economycalc/static/js/2.2db8ac7a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4f6ad64.js",
+    "static/css/2.e9c4461c.chunk.css",
+    "static/js/2.2db8ac7a.chunk.js",
+    "static/css/main.2218e3f6.chunk.css",
+    "static/js/main.4ad75bd3.chunk.js"
+  ]
+}
